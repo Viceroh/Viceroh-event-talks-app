@@ -1,0 +1,12 @@
+{
+  "name": "tech-event-website",
+  "version": "1.0.0",
+  "description": "A simple website for a tech event.",
+  "main": "generate_data.js",
+  "scripts": {
+    "build": "node generate_data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
